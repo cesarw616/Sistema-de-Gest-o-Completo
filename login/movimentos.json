@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "codigo_produto": "PROD004",
+        "nome_produto": "Televisão",
+        "tipo": "entrada",
+        "quantidade": 10,
+        "estoque_anterior": 0,
+        "estoque_atual": 10,
+        "observacao": "",
+        "usuario": "renan",
+        "data_hora": "2025-08-21 00:37:49"
+    },
+    {
+        "id": 2,
+        "codigo_produto": "PROD004",
+        "nome_produto": "Televisão",
+        "tipo": "saida",
+        "quantidade": 2,
+        "estoque_anterior": 10,
+        "estoque_atual": 8,
+        "observacao": "",
+        "usuario": "renan",
+        "data_hora": "2025-08-21 00:38:33"
+    },
+    {
+        "id": 3,
+        "codigo_produto": "PROD004",
+        "nome_produto": "Televisão",
+        "tipo": "saida",
+        "quantidade": 3,
+        "estoque_anterior": 8,
+        "estoque_atual": 5,
+        "observacao": "Venda - Pedido PED001",
+        "usuario": "renan",
+        "data_hora": "2025-08-21 01:02:23"
+    }
+]

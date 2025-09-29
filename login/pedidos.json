@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "PED001",
+        "cliente_id": "1",
+        "cliente_nome": "william",
+        "produtos": [
+            {
+                "codigo": "PROD004",
+                "nome": "Televisão",
+                "quantidade": 3,
+                "preco_unitario": 1000.0
+            }
+        ],
+        "subtotal": 3000.0,
+        "total": 3000.0,
+        "observacoes": "",
+        "status": "finalizado",
+        "usuario_criacao": "renan",
+        "data_criacao": "2025-08-21 01:02:23",
+        "data_atualizacao": "2025-08-21 01:06:34",
+        "usuario_atualizacao": "renan"
+    }
+]

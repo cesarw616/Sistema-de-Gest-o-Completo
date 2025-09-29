@@ -1,0 +1,18 @@
+[
+    {
+        "id": "CR001",
+        "cliente": "victor",
+        "descricao": "venda",
+        "categoria": "venda",
+        "valor": 10000.0,
+        "data_vencimento": "2025-08-21",
+        "status": "pendente",
+        "status_vencimento": "vencendo_hoje",
+        "observacoes": "",
+        "data_cadastro": "2025-08-21 13:46:07",
+        "usuario_cadastro": "renan",
+        "data_recebimento": null,
+        "usuario_recebimento": null,
+        "ativo": true
+    }
+]

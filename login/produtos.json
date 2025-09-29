@@ -1,0 +1,42 @@
+{
+    "PROD001": {
+        "nome": "Memoria Ram",
+        "categoria": "Tecnologia",
+        "preco": 150.0,
+        "quantidade": 0,
+        "estoque_minimo": 10,
+        "data_cadastro": "2025-08-21 00:32:08",
+        "usuario_cadastro": "renan",
+        "ativo": true
+    },
+    "PROD002": {
+        "nome": "Processador",
+        "categoria": "Tecnologia",
+        "preco": 500.0,
+        "quantidade": 0,
+        "estoque_minimo": 5,
+        "data_cadastro": "2025-08-21 00:32:47",
+        "usuario_cadastro": "renan",
+        "ativo": true
+    },
+    "PROD003": {
+        "nome": "samsung S20 FE",
+        "categoria": "Smartphone",
+        "preco": 2500.0,
+        "quantidade": 0,
+        "estoque_minimo": 3,
+        "data_cadastro": "2025-08-21 00:33:55",
+        "usuario_cadastro": "renan",
+        "ativo": true
+    },
+    "PROD004": {
+        "nome": "Televisão",
+        "categoria": "TV",
+        "preco": 1000.0,
+        "quantidade": 5,
+        "estoque_minimo": 15,
+        "data_cadastro": "2025-08-21 00:34:41",
+        "usuario_cadastro": "renan",
+        "ativo": true
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "contas_pagar": {
+        "aluguel": {
+            "nome": "Aluguel",
+            "tipo": "fixa",
+            "cor": "🔴"
+        },
+        "internet": {
+            "nome": "Internet",
+            "tipo": "fixa",
+            "cor": "🔴"
+        },
+        "energia": {
+            "nome": "Energia Elétrica",
+            "tipo": "variavel",
+            "cor": "🟡"
+        },
+        "agua": {
+            "nome": "Água",
+            "tipo": "variavel",
+            "cor": "🟡"
+        },
+        "fornecedor": {
+            "nome": "Fornecedor",
+            "tipo": "variavel",
+            "cor": "🟠"
+        },
+        "imposto": {
+            "nome": "Imposto",
+            "tipo": "fixa",
+            "cor": "🔴"
+        },
+        "salario": {
+            "nome": "Salário",
+            "tipo": "fixa",
+            "cor": "🔴"
+        },
+        "manutencao": {
+            "nome": "Manutenção",
+            "tipo": "variavel",
+            "cor": "🟠"
+        },
+        "marketing": {
+            "nome": "Marketing",
+            "tipo": "variavel",
+            "cor": "🟢"
+        },
+        "outros": {
+            "nome": "Outros",
+            "tipo": "variavel",
+            "cor": "⚪"
+        }
+    },
+    "contas_receber": {
+        "venda": {
+            "nome": "Venda",
+            "tipo": "variavel",
+            "cor": "🟢"
+        },
+        "servico": {
+            "nome": "Serviço",
+            "tipo": "variavel",
+            "cor": "🟢"
+        },
+        "comissao": {
+            "nome": "Comissão",
+            "tipo": "variavel",
+            "cor": "🟢"
+        },
+        "aluguel_recebido": {
+            "nome": "Aluguel Recebido",
+            "tipo": "fixa",
+            "cor": "🟢"
+        },
+        "investimento": {
+            "nome": "Investimento",
+            "tipo": "variavel",
+            "cor": "🟢"
+        },
+        "outros_recebimentos": {
+            "nome": "Outros Recebimentos",
+            "tipo": "variavel",
+            "cor": "🟢"
+        }
+    }
+}

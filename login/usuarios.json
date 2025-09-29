@@ -1,0 +1,26 @@
+{
+    "renan": {
+        "senha": "vbmeMEsh7ub3ngmBEMpFOm9fUGVVQk5VU0dES0s4NERoSFJXMkpJaXVpSnQ4N3lLdldZLVNOZjhuME09",
+        "email": "dfsftgsdfghfgasd",
+        "tipo": "admin",
+        "data_cadastro": "2025-08-20 23:59:53",
+        "ultimo_login": "2025-09-04 11:34:01",
+        "ativo": true
+    },
+    "cesar": {
+        "senha": "9yzzUb7pa4XCbfxgxuSr4WJyaVVzaGRDSzJhQmhxeEhoVlN4dnpEMXd5TFFNQWVfbUpXTG52TkJyR2M9",
+        "email": "sdafsdgsddasgg",
+        "tipo": "funcionario",
+        "data_cadastro": "2025-08-21 00:16:19",
+        "ultimo_login": "2025-08-21 01:14:14",
+        "ativo": true
+    },
+    "william": {
+        "senha": "MiLYiizAus1PwgQCUnbyQXZPbEYtMEZPOTZfMEY0NVVvY0pnUVRNR0hLV0MyYkxMcXNneDBZdDJFUEE9",
+        "email": "sdgsddgjftgujryretger",
+        "tipo": "cliente",
+        "data_cadastro": "2025-08-21 00:16:45",
+        "ultimo_login": "2025-08-21 00:59:54",
+        "ativo": true
+    }
+}

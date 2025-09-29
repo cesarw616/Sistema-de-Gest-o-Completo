@@ -1,0 +1,18 @@
+[
+    {
+        "id": "CP001",
+        "descricao": "aluguel",
+        "categoria": "aluguel",
+        "valor": 1000.0,
+        "data_vencimento": "2025-09-05",
+        "status": "pendente",
+        "status_vencimento": "no_prazo",
+        "fornecedor": "",
+        "observacoes": "",
+        "data_cadastro": "2025-08-21 13:45:09",
+        "usuario_cadastro": "renan",
+        "data_pagamento": null,
+        "usuario_pagamento": null,
+        "ativo": true
+    }
+]
